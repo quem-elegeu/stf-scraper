@@ -11,6 +11,7 @@ const download = require('./download');
 module.exports = (person) => {
     let process = {
         name: (person.fullName || person.shortName),
+        email: person.email,
         party: person.party,
         state: person.state,
         list: []
@@ -36,10 +37,12 @@ module.exports = (person) => {
             options.each(function(i) {
                 let elem = $(this);
                 if (elem.text().trim() === process.name);
-                let prom = download('http://www.stf.jus.br/portal/processo/verProcessoParte.asp', {
-                    method: 'post',
-                    form: {listaPartes: elem.attr('value')}
-                });
+                let prom = new Promise(resolve => setTimeout(() => {
+                    download('http://www.stf.jus.br/portal/processo/verProcessoParte.asp', {
+                        method: 'post',
+                        form: {listaPartes: elem.attr('value')}
+                    }).then(resolve).catch(() => resolve());
+                }, 1000 * i));
                 promises.push(prom);
             });
 
@@ -49,6 +52,7 @@ module.exports = (person) => {
         let promises = [];
         for (let i=0; i<htmls.length; i++ ){
             let html = htmls[i];
+            if (!html) continue;
             let prom = new Promise(resolve => jsdom.env({
                 html,
                 src: [jqueryFile],
@@ -95,6 +99,7 @@ module.exports = (person) => {
             process.list.push(...datum);
         }
 
+        console.log('Finish', process.name, process.list.length);
         return process;
     //    let promises = process.list.map(item => download(item.link));
     //    return Promise.all(promises);

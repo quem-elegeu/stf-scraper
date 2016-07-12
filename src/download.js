@@ -23,7 +23,7 @@ module.exports = (url, opts = {}) => new Promise((resolve, reject) => {
             body = conv.convert(body).toString();
             resolve(body);
         } else {
-            console.error('Err', url, response && response.statusCode);
+            console.error('Err', url, response && response.statusCode, error);
             reject({error, response});
         }
     });
