@@ -10,8 +10,10 @@ const sortName = (a, b) => {
     }
 };
 
-process.push(...require('./process-senate-all').sort(sortName));
-process.push(...require('./process-congress-all').sort(sortName));
+//process.push(...require('./process-senate-all').sort(sortName));
+//process.push(...require('./process-congress-all').sort(sortName));
+process.push(...require('./investigations-validate').sort(sortName));
+process.push(...require('./prosecutions-validate').sort(sortName));
 
 let senates = require('./data/national-senate-data');
 
@@ -36,6 +38,18 @@ for (let i=0; i<process.length; i++) {
 
     for(let j=0; j<person.list.length; j++) {
         let item = person.list[j];
+        if (item.subject) {
+            item.desc = item.subject.split('<br>').map(p => {
+                return p.split('|')[2];
+            }).filter(p => p && p.trim().length).map(p => p.trim()).join(', ');
+        }
+        if (!item.desc || !item.desc.trim().length) {
+            item.desc = '- Sem Descrição - ';
+        }
+        delete item.valid;
+        delete item.names;
+        delete item.title;
+        delete item.subject;
         if (item.type === 'Ação Penal') {
             dataP.list.push(item);
         } else {

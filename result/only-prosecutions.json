@@ -1,0 +1,1680 @@
+[
+  {
+    "name": "Jader Fontenelle Barbalho",
+    "email": "jader.barbalho@senador.leg.br",
+    "party": "PMDB",
+    "state": "PA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "498",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2637647",
+        "desc": "Peculato"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "336",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2126511",
+        "desc": "Emprego irregular de verbas ou rendas públicas"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "339",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2135328",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "397",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2319594",
+        "desc": "Falsidade ideológica, Quadrilha ou Bando, Estelionato, Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores, Outras fraudes"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "549",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=3962754",
+        "desc": "Parlamentares, Emprego irregular de verbas ou rendas públicas"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "901",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4692030",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores, Quadrilha ou Bando, Crimes contra o Sistema Financeiro Nacional"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "653",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4186231",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "374",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2227020",
+        "desc": "Emprego irregular de verbas ou rendas públicas"
+      }
+    ]
+  },
+  {
+    "name": "Nilton Balbino",
+    "email": "dep.niltoncapixaba@camara.leg.br",
+    "party": "PTB",
+    "state": "RO",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "958",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4831006",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "644",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4148416",
+        "desc": "Corrupção passiva, Quadrilha ou Bando, Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      }
+    ]
+  },
+  {
+    "name": "Édio Vieira Lopes",
+    "email": "dep.ediolopes@camara.leg.br",
+    "party": "PR",
+    "state": "RR",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "940",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4782743",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Joao Ferreira Neto",
+    "email": "dep.dr.joao@camara.leg.br",
+    "party": "PR",
+    "state": "RJ",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "981",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4984767",
+        "desc": "Apropriação indébita Previdenciária"
+      }
+    ]
+  },
+  {
+    "name": "Nilson Aparecido Leitão",
+    "email": "dep.nilsonleitao@camara.leg.br",
+    "party": "PSDB",
+    "state": "MT",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "985",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4998964",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "645",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4151511",
+        "desc": "Crimes da Lei de licitações, Quadrilha ou Bando"
+      }
+    ]
+  },
+  {
+    "name": "Paulo Salim Maluf",
+    "email": "dep.paulomaluf@camara.leg.br",
+    "party": "PP",
+    "state": "SP",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "968",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4886605",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Edson Moreira da Silva",
+    "email": "dep.delegadoedsonmoreira@camara.leg.br",
+    "party": "PR",
+    "state": "MG",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "905",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4708257",
+        "desc": "Peculato"
+      }
+    ]
+  },
+  {
+    "name": "Eder Mauro Cardoso Barra",
+    "email": "dep.delegadoedermauro@camara.leg.br",
+    "party": "PSD",
+    "state": "PA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "967",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4886606",
+        "desc": "Ameaça"
+      }
+    ]
+  },
+  {
+    "name": "Paulo Pereira da Silva",
+    "email": "dep.paulopereiradasilva@camara.leg.br",
+    "party": "SD",
+    "state": "SP",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "421",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2510990",
+        "desc": "Competência por Prerrogativa de Função, Estelionato, Concussão"
+      }
+    ]
+  },
+  {
+    "name": "Décio Nery de Lima",
+    "email": "dep.deciolima@camara.leg.br",
+    "party": "PT",
+    "state": "SC",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "898",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4679085",
+        "desc": "Improbidade Administrativa"
+      }
+    ]
+  },
+  {
+    "name": "Newton Cardoso Junior",
+    "email": "dep.newtoncardosojr@camara.leg.br",
+    "party": "PMDB",
+    "state": "MG",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "983",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4997054",
+        "desc": "Crimes contra a Ordem Tributária"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "987",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5003107",
+        "desc": "Falsidade ideológica, Crimes contra o Meio Ambiente e o Patrimônio Genético"
+      }
+    ]
+  },
+  {
+    "name": "Marco Antonio Feliciano",
+    "email": "dep.pr.marcofeliciano@camara.leg.br",
+    "party": "PSC",
+    "state": "SP",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "612",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4084444",
+        "desc": "Estelionato"
+      }
+    ]
+  },
+  {
+    "name": "Esperidião Amin Helou Filho",
+    "email": "dep.esperidiaoamin@camara.leg.br",
+    "party": "PP",
+    "state": "SC",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "583",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4051569",
+        "desc": "- Sem Descrição - "
+      },
+      {
+        "type": "Ação Penal",
+        "code": "699",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4322403",
+        "desc": "Crimes Eleitorais"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "594",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4054075",
+        "desc": "Calúnia"
+      }
+    ]
+  },
+  {
+    "name": "Dagoberto Nogueira Filho",
+    "email": "dep.dagoberto@camara.leg.br",
+    "party": "PDT",
+    "state": "MS",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "917",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4727707",
+        "desc": "Peculato, Crimes contra o Sistema Financeiro Nacional"
+      }
+    ]
+  },
+  {
+    "name": "Marx Beltrão Lima Siqueira",
+    "email": "dep.marxbeltrao@camara.leg.br",
+    "party": "PMDB",
+    "state": "AL",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "931",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4758576",
+        "desc": "Falsidade ideológica"
+      }
+    ]
+  },
+  {
+    "name": "Maria Auxiliadora Seabra Rezende",
+    "email": "dep.professoradorinhaseabrarezende@camara.leg.br",
+    "party": "DEM",
+    "state": "TO",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "915",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4724562",
+        "desc": "Modalidade / Limite / Dispensa / Inexigibilidade, Peculato"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "946",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4790165",
+        "desc": "Crimes da Lei de licitações, Peculato"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "962",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4863591",
+        "desc": "Peculato, Crimes da Lei de licitações"
+      }
+    ]
+  },
+  {
+    "name": "Marcos da Rocha Mendes",
+    "email": "dep.marquinhomendes@camara.leg.br",
+    "party": "PMDB",
+    "state": "RJ",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "937",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4776682",
+        "desc": "Crimes Eleitorais"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "955",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4817116",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Cleber Verde Cordeiro Mendes",
+    "email": "dep.cleberverde@camara.leg.br",
+    "party": "PRB",
+    "state": "MA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "497",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2637407",
+        "desc": "Inserção de dados falsos em sistema de informações"
+      }
+    ]
+  },
+  {
+    "name": "Fausto Ruy Pinato",
+    "email": "dep.faustopinato@camara.leg.br",
+    "party": "PP",
+    "state": "SP",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "908",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4713184",
+        "desc": "Denunciação caluniosa"
+      }
+    ]
+  },
+  {
+    "name": "Cesar Hanna Halum",
+    "email": "dep.cesarhalum@camara.leg.br",
+    "party": "PRB",
+    "state": "TO",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "613",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4089486",
+        "desc": "Apropriação indébita Previdenciária"
+      }
+    ]
+  },
+  {
+    "name": "Felix de Almeida Mendonça Júnior",
+    "email": "dep.felixmendoncajunior@camara.leg.br",
+    "party": "PDT",
+    "state": "BA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "692",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4286518",
+        "desc": "Coação no curso do processo, Desobediência, Crimes contra o Meio Ambiente e o Patrimônio Genético"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "705",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4375691",
+        "desc": "Coação no curso do processo, Contra o Patrimônio"
+      }
+    ]
+  },
+  {
+    "name": "Celso Ubirajara Russomanno",
+    "email": "dep.celsorussomanno@camara.leg.br",
+    "party": "PRB",
+    "state": "SP",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "504",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2652352",
+        "desc": "Peculato"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "685",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4261902",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Fernando Antônio Ceciliano Jordão",
+    "email": "dep.fernandojordao@camara.leg.br",
+    "party": "PMDB",
+    "state": "RJ",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "862",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4489499",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Roberto Pereira de Britto",
+    "email": "dep.robertobritto@camara.leg.br",
+    "party": "PP",
+    "state": "BA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "512",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2673236",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Maria do Rosário Nunes",
+    "email": "dep.mariadorosario@camara.leg.br",
+    "party": "PT",
+    "state": "RS",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "340",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2137521",
+        "desc": "Dano"
+      }
+    ]
+  },
+  {
+    "name": "Celso Alencar Ramos Jacob",
+    "email": "dep.celsojacob@camara.leg.br",
+    "party": "PMDB",
+    "state": "RJ",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "971",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4910640",
+        "desc": "Crimes da Lei de licitações"
+      }
+    ]
+  },
+  {
+    "name": "Fernando Dantas Torres",
+    "email": "dep.fernandotorres@camara.leg.br",
+    "party": "PSD",
+    "state": "BA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "690",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4277793",
+        "desc": "Crimes contra a Ordem Econômica"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "934",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4765640",
+        "desc": "Crimes contra a Ordem Econômica"
+      }
+    ]
+  },
+  {
+    "name": "Antonio Roberto Rodrigues Góes da Silva",
+    "email": "dep.robertogoes@camara.leg.br",
+    "party": "PDT",
+    "state": "AP",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "916",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4725047",
+        "desc": "Peculato"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "924",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4740138",
+        "desc": "Peculato, Crimes de Responsabilidade"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "936",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4770327",
+        "desc": "Crimes contra o Meio Ambiente e o Patrimônio Genético"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "949",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4803604",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "928",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4752104",
+        "desc": "Aumento de Despesa com Pessoal no Último Ano do Mandato ou Legislatura"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "970",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4896592",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores, Quadrilha ou Bando, Falsificação de documento público, Crimes da Lei de licitações"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "984",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4998261",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "986",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5002005",
+        "desc": "Crimes da Lei de licitações, Peculato"
+      }
+    ]
+  },
+  {
+    "name": "Flaviano Flávio Baptista de Melo",
+    "email": "dep.flavianomelo@camara.leg.br",
+    "party": "PMDB",
+    "state": "AC",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "435",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2532035",
+        "desc": "Peculato, Crimes contra o Sistema Financeiro Nacional"
+      }
+    ]
+  },
+  {
+    "name": "Wherles Fernandes da Rocha",
+    "email": "dep.rocha@camara.leg.br",
+    "party": "PSDB",
+    "state": "AC",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "926",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4748699",
+        "desc": "Injúria"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "954",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4816441",
+        "desc": "Motim e Revolta"
+      }
+    ]
+  },
+  {
+    "name": "Marcos Jose Reategui Souza",
+    "email": "dep.marcosreategui@camara.leg.br",
+    "party": "PSD",
+    "state": "AP",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "914",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4724191",
+        "desc": "Peculato"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "945",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4790111",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "942",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4788919",
+        "desc": "Violação do sigilo funcional"
+      }
+    ]
+  },
+  {
+    "name": "Carlos Gomes Bezerra",
+    "email": "dep.carlosbezerra@camara.leg.br",
+    "party": "PMDB",
+    "state": "MT",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "520",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=3771349",
+        "desc": "Peculato, Crimes da Lei de licitações"
+      }
+    ]
+  },
+  {
+    "name": "Marco Antonio Tebaldi",
+    "email": "dep.marcotebaldi@camara.leg.br",
+    "party": "PSDB",
+    "state": "SC",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "556",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4018150",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "560",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4018654",
+        "desc": "Crimes da Lei de licitações, Modalidade / Limite / Dispensa / Inexigibilidade"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "555",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4018117",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "595",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4058318",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "569",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4032010",
+        "desc": "Emprego irregular de verbas ou rendas públicas, Falsidade ideológica"
+      }
+    ]
+  },
+  {
+    "name": "Rômulo José de Gouveia",
+    "email": "dep.romulogouveia@camara.leg.br",
+    "party": "PSD",
+    "state": "PB",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "492",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2628745",
+        "desc": "Crimes Eleitorais"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "952",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4808166",
+        "desc": "Crimes da Lei de licitações"
+      }
+    ]
+  },
+  {
+    "name": "Fernando Lucio Giacobo",
+    "email": "dep.giacobo@camara.leg.br",
+    "party": "PR",
+    "state": "PR",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "345",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2158899",
+        "desc": "Quadrilha ou Bando, Falsidade ideológica, Crimes contra a Ordem Tributária"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "360",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=11942",
+        "desc": "Seqüestro e cárcere privado"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "433",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2531146",
+        "desc": "- Sem Descrição - "
+      }
+    ]
+  },
+  {
+    "name": "Ronaldo Augusto Lessa Santos",
+    "email": "dep.ronaldolessa@camara.leg.br",
+    "party": "PDT",
+    "state": "AL",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "929",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4754852",
+        "desc": "Crimes Eleitorais"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "975",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4927582",
+        "desc": "Crimes da Lei de licitações, Quadrilha ou Bando, Peculato"
+      }
+    ]
+  },
+  {
+    "name": "José de Andrade Maia Filho",
+    "email": "dep.maiafilho@camara.leg.br",
+    "party": "PP",
+    "state": "PI",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "533",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=3865268",
+        "desc": "Crimes de Responsabilidade"
+      }
+    ]
+  },
+  {
+    "name": "Flavio Alves Sabino",
+    "email": "dep.cabosabino@camara.leg.br",
+    "party": "PR",
+    "state": "CE",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "951",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4807673",
+        "desc": "Corrupção passiva, Corrupção ativa"
+      }
+    ]
+  },
+  {
+    "name": "Jose Maria Macedo Junior",
+    "email": "dep.macedo@camara.leg.br",
+    "party": "PP",
+    "state": "CE",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "980",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4974721",
+        "desc": "Crimes contra o Meio Ambiente e o Patrimônio Genético"
+      }
+    ]
+  },
+  {
+    "name": "Benevenuto Daciolo Fonseca Dos Santos",
+    "email": "dep.cabodaciolo@camara.leg.br",
+    "party": "PTdoB",
+    "state": "RJ",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "927",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4749305",
+        "desc": "Crimes contra a Segurança Nacional, a Ordem Política e Social"
+      }
+    ]
+  },
+  {
+    "name": "Izalci Lucas Ferreira",
+    "email": "dep.izalci@camara.leg.br",
+    "party": "PSDB",
+    "state": "DF",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "883",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4638311",
+        "desc": "Crimes contra a Fé Pública Eleitoral"
+      }
+    ]
+  },
+  {
+    "name": "Sandro Alex Cruz de Oliveira",
+    "email": "dep.sandroalex@camara.leg.br",
+    "party": "PSD",
+    "state": "PR",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "687",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4266055",
+        "desc": "Calúnia, Injúria"
+      }
+    ]
+  },
+  {
+    "name": "Lucio Antonio Mosquini",
+    "email": "dep.luciomosquini@camara.leg.br",
+    "party": "PMDB",
+    "state": "RO",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "904",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4696518",
+        "desc": "Crimes contra o Serviço da Justiça Eleitoral"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "903",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4696517",
+        "desc": "Crimes contra o Serviço da Justiça Eleitoral, Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Sérgio Ivan Moraes",
+    "email": "dep.sergiomoraes@camara.leg.br",
+    "party": "PTB",
+    "state": "RS",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "447",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2546232",
+        "desc": "Prefeito, Crimes de Responsabilidade"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "448",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2546202",
+        "desc": "Crimes de Responsabilidade, Prefeito"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "416",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2502099",
+        "desc": "Crimes de Responsabilidade, Prefeito"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "423",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2512929",
+        "desc": "Crimes de Responsabilidade, Prefeito"
+      }
+    ]
+  },
+  {
+    "name": "Luciana Barbosa de Oliveira Santos",
+    "email": "dep.lucianasantos@camara.leg.br",
+    "party": "PCdoB",
+    "state": "PE",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "861",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4488872",
+        "desc": "Crimes da Lei de licitações"
+      }
+    ]
+  },
+  {
+    "name": "Paulo Roberto Gomes Mansur",
+    "email": "dep.betomansur@camara.leg.br",
+    "party": "PRB",
+    "state": "SP",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "580",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4047622",
+        "desc": "Crimes de Responsabilidade, Prefeito"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "635",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4131042",
+        "desc": "Redução a condição análoga à de escravo"
+      }
+    ]
+  },
+  {
+    "name": "Lindomar Barbosa Alves",
+    "email": "dep.lindomargarcon@camara.leg.br",
+    "party": "PRB",
+    "state": "RO",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "462",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2562019",
+        "desc": "Falsificação de documento público"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "925",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4740165",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Antonio Sergio Alves Vidigal",
+    "email": "dep.sergiovidigal@camara.leg.br",
+    "party": "PDT",
+    "state": "ES",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "953",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4808814",
+        "desc": "Crimes contra o Meio Ambiente e o Patrimônio Genético"
+      }
+    ]
+  },
+  {
+    "name": "João Carlos Paolilo Bacelar Filho",
+    "email": "dep.joaocarlosbacelar@camara.leg.br",
+    "party": "PR",
+    "state": "BA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "551",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=3984333",
+        "desc": "Injúria"
+      }
+    ]
+  },
+  {
+    "name": "Benjamin Gomes Maranhão Neto",
+    "email": "dep.benjaminmaranhao@camara.leg.br",
+    "party": "SD",
+    "state": "PB",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "676",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4225339",
+        "desc": "Quadrilha ou Bando, Crimes da Lei de licitações"
+      }
+    ]
+  },
+  {
+    "name": "João Castelo Ribeiro Gonçalves",
+    "email": "dep.joaocastelo@camara.leg.br",
+    "party": "PSDB",
+    "state": "MA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "922",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4738826",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "939",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4777780",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "959",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4832366",
+        "desc": "Prevaricação"
+      }
+    ]
+  },
+  {
+    "name": "Benito da Gama Santos",
+    "email": "dep.benitogama@camara.leg.br",
+    "party": "PTB",
+    "state": "BA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "920",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4737526",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Kaio Cesar de Moura Manicoba Novaes Ferraz",
+    "email": "dep.kaiomanicoba@camara.leg.br",
+    "party": "PMDB",
+    "state": "PE",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "950",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4805518",
+        "desc": "Falsidade ideológica"
+      }
+    ]
+  },
+  {
+    "name": "Silas Câmara",
+    "email": "dep.silascamara@camara.leg.br",
+    "party": "PRB",
+    "state": "AM",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "579",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4047087",
+        "desc": "Uso de documento falso, Falsificação de documento público"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "864",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4513165",
+        "desc": "Improbidade Administrativa"
+      }
+    ]
+  },
+  {
+    "name": "Antonio da Cruz Filgueira Junior",
+    "email": "dep.juniormarreca@camara.leg.br",
+    "party": "PEN",
+    "state": "MA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "977",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4935436",
+        "desc": "Emprego irregular de verbas ou rendas públicas, Prefeito"
+      }
+    ]
+  },
+  {
+    "name": "Sílvio Serafim Costa",
+    "email": "dep.silviocosta@camara.leg.br",
+    "party": "PTdoB",
+    "state": "PE",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "615",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4091303",
+        "desc": "Injúria"
+      }
+    ]
+  },
+  {
+    "name": "Joziane Araujo Nascimento Rocha",
+    "email": "dep.joziaraujo@camara.leg.br",
+    "party": "PTN",
+    "state": "AP",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "919",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4732893",
+        "desc": "Apropriação indébita"
+      }
+    ]
+  },
+  {
+    "name": "Augusto Rodrigues Coutinho de Melo",
+    "email": "dep.augustocoutinho@camara.leg.br",
+    "party": "SD",
+    "state": "PE",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "978",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4951415",
+        "desc": "Crimes contra o Meio Ambiente e o Patrimônio Genético"
+      }
+    ]
+  },
+  {
+    "name": "Josué Bengtson",
+    "email": "dep.josuebengtson@camara.leg.br",
+    "party": "PTB",
+    "state": "PA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "695",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4288916",
+        "desc": "Corrupção ativa, Corrupção passiva, Peculato, Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "702",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4359158",
+        "desc": "Quadrilha ou Bando, Corrupção passiva, Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores, Crimes da Lei de licitações"
+      }
+    ]
+  },
+  {
+    "name": "Luiz Gonzaga Ribeiro",
+    "email": "dep.subtenentegonzaga@camara.leg.br",
+    "party": "PDT",
+    "state": "MG",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "944",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4789585",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      }
+    ]
+  },
+  {
+    "name": "Jose Luiz Stédile",
+    "email": "dep.josestedile@camara.leg.br",
+    "party": "PSB",
+    "state": "RS",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "599",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4062581",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      }
+    ]
+  },
+  {
+    "name": "Arthur César Pereira de Lira",
+    "email": "dep.arthurlira@camara.leg.br",
+    "party": "PP",
+    "state": "AL",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "869",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4557012",
+        "desc": "Ameaça"
+      }
+    ]
+  },
+  {
+    "name": "José Reinaldo Carneiro Tavares",
+    "email": "dep.josereinaldo@camara.leg.br",
+    "party": "PSB",
+    "state": "MA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "988",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5009721",
+        "desc": "Crimes da Lei de licitações, Corrupção passiva, Corrupção ativa"
+      }
+    ]
+  },
+  {
+    "name": "Francisco Everardo Oliveira Silva",
+    "email": "dep.tiririca@camara.leg.br",
+    "party": "PR",
+    "state": "SP",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "567",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4029504",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "José Benito Priante Júnior",
+    "email": "dep.josepriante@camara.leg.br",
+    "party": "PMDB",
+    "state": "PA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "596",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4058020",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Valmir Carlos da Assunção",
+    "email": "dep.valmirassuncao@camara.leg.br",
+    "party": "PT",
+    "state": "BA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "619",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4096181",
+        "desc": "Dano"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "624",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4103335",
+        "desc": "Dano Qualificado, Atentado contra a segurança de serviços de utilidade pública"
+      }
+    ]
+  },
+  {
+    "name": "Paulo Roberto Galvão da Rocha",
+    "email": "paulo.rocha@senador.leg.br",
+    "party": "PT",
+    "state": "PA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "470",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=11541",
+        "desc": "Quadrilha ou Bando, Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      }
+    ]
+  },
+  {
+    "name": "André Luís Dantas Ferreira",
+    "email": "dep.andremoura@camara.leg.br",
+    "party": "PSC",
+    "state": "SE",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "969",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4887556",
+        "desc": "Prefeito, Crimes de Responsabilidade"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "973",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4925376",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "974",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4925444",
+        "desc": "Quadrilha ou Bando, Improbidade Administrativa"
+      }
+    ]
+  },
+  {
+    "name": "Sérgio de Oliveira Cunha",
+    "email": "sergio.petecao@senador.leg.br",
+    "party": "PSD",
+    "state": "AC",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "542",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=3916080",
+        "desc": "Peculato"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "880",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4612183",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Veneziano Vital do Rêgo Segundo Neto",
+    "email": "dep.venezianovitaldorego@camara.leg.br",
+    "party": "PMDB",
+    "state": "PB",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "912",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4721918",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "933",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4763537",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Fernando Affonso Collor de Mello",
+    "email": "fernando.collor@senador.leg.br",
+    "party": "PTC",
+    "state": "AL",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "451",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2551060",
+        "desc": "Crimes contra a Ordem Tributária, IRPF/Imposto de Renda de Pessoa Física, Apropriação indébita Previdenciária"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "465",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2565265",
+        "desc": "Corrupção passiva, Peculato, Corrupção ativa, Tráfico de influência, Falsidade ideológica"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "307",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1565721",
+        "desc": "PRESIDENTE DA REPÚBLICA E OUTROS"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "305",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1549063",
+        "desc": "Crimes Eleitorais, Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Alfredo Pereira do Nascimento",
+    "email": "dep.alfredonascimento@camara.leg.br",
+    "party": "PR",
+    "state": "AM",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "960",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4833252",
+        "desc": "Crimes contra a Fé Pública Eleitoral"
+      }
+    ]
+  },
+  {
+    "name": "Marta Teresa Suplicy",
+    "email": "marta.suplicy@senadora.leg.br",
+    "party": "PMDB",
+    "state": "SP",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "449",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2547059",
+        "desc": "Difamação, Injúria"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "455",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2558810",
+        "desc": "Crimes da Lei de licitações, Modalidade / Limite / Dispensa / Inexigibilidade"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "648",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4164352",
+        "desc": "Crimes da Lei de licitações"
+      }
+    ]
+  },
+  {
+    "name": "Walney da Rocha Carvalho",
+    "email": "dep.walneyrocha@camara.leg.br",
+    "party": "PEN",
+    "state": "RJ",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "627",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4108790",
+        "desc": "Corrupção passiva"
+      }
+    ]
+  },
+  {
+    "name": "Dário Elias Berger",
+    "email": "dario.berger@senador.leg.br",
+    "party": "PMDB",
+    "state": "SC",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "938",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4776748",
+        "desc": "Crimes da Lei de licitações, Crimes de Responsabilidade"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "943",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4789594",
+        "desc": "Crimes de Responsabilidade"
+      }
+    ]
+  },
+  {
+    "name": "João Alberto Fraga Silva",
+    "email": "dep.albertofraga@camara.leg.br",
+    "party": "DEM",
+    "state": "DF",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "907",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4713104",
+        "desc": "Crimes do Sistema Nacional de Armas"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "930",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4755677",
+        "desc": "Peculato, Falsidade ideológica"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "911",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4719050",
+        "desc": "Concussão"
+      }
+    ]
+  },
+  {
+    "name": "Telmário Mota de Oliveira",
+    "email": "telmariomota@senador.leg.br",
+    "party": "PDT",
+    "state": "RR",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "932",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4760249",
+        "desc": "Quadrilha ou Bando, Apologia de Crime ou Criminoso"
+      }
+    ]
+  },
+  {
+    "name": "Washington Reis de Oliveira",
+    "email": "dep.washingtonreis@camara.leg.br",
+    "party": "PMDB",
+    "state": "RJ",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "618",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4094146",
+        "desc": "Crimes contra o Meio Ambiente e o Patrimônio Genético, Quadrilha ou Bando"
+      }
+    ]
+  },
+  {
+    "name": "Valdir Raupp de Matos",
+    "email": "valdir.raupp@senador.leg.br",
+    "party": "PMDB",
+    "state": "RO",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "554",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4012042",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "383",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2251870",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      }
+    ]
+  },
+  {
+    "name": "Weverton Rocha Marques de Sousa",
+    "email": "dep.wevertonrocha@camara.leg.br",
+    "party": "PDT",
+    "state": "MA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "678",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4226174",
+        "desc": "Peculato, Receptação"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "675",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4220705",
+        "desc": "Quadrilha ou Bando, Apropriação indébita, Estelionato"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "683",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4244057",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "700",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4328335",
+        "desc": "Crimes da Lei de licitações"
+      }
+    ]
+  },
+  {
+    "name": "Ivo Narciso Cassol",
+    "email": "ivo.cassol@senador.leg.br",
+    "party": "PP",
+    "state": "RO",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "562",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4021548",
+        "desc": "Crimes Eleitorais"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "565",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4024333",
+        "desc": "Crimes da Lei de licitações, Quadrilha ou Bando"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "891",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4664561",
+        "desc": "Calúnia"
+      }
+    ]
+  },
+  {
+    "name": "Wladimir Afonso da Costa Rabelo",
+    "email": "dep.wladimircosta@camara.leg.br",
+    "party": "SD",
+    "state": "PA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "474",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2582953",
+        "desc": "Crimes de Imprensa"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "386",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2259584",
+        "desc": "Calúnia, Difamação"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "415",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2491868",
+        "desc": "Crimes de Imprensa"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "865",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4516357",
+        "desc": "Difamação, Calúnia"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "528",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=3840783",
+        "desc": "- Sem Descrição - "
+      }
+    ]
+  },
+  {
+    "name": "Romario de Souza Faria",
+    "email": "romario@senador.leg.br",
+    "party": "PSB",
+    "state": "RJ",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "854",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4469665",
+        "desc": "Crimes contra a Ordem Tributária"
+      }
+    ]
+  },
+  {
+    "name": "Adilton Domingos Sachetti",
+    "email": "dep.adiltonsachetti@camara.leg.br",
+    "party": "PSB",
+    "state": "MT",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "947",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4795345",
+        "desc": "Crimes de Responsabilidade"
+      }
+    ]
+  },
+  {
+    "name": "Luiz Lindbergh Farias Filho",
+    "email": "lindbergh.farias@senador.leg.br",
+    "party": "PT",
+    "state": "RJ",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "679",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4227698",
+        "desc": "Recusa, retardamento ou omissão de dados técnicos indispensáveis à propositura de Ação Civil Pública"
+      }
+    ]
+  },
+  {
+    "name": "Ademir Camilo Prates Rodrigues",
+    "email": "dep.ademircamilo@camara.leg.br",
+    "party": "PTN",
+    "state": "MG",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "404",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2381831",
+        "desc": "Falsificação de documento público"
+      }
+    ]
+  },
+  {
+    "name": "Roberto Requião de Mello e Silva",
+    "email": "roberto.requiao@senador.leg.br",
+    "party": "PMDB",
+    "state": "PR",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "334",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2069165",
+        "desc": "- Sem Descrição - "
+      },
+      {
+        "type": "Ação Penal",
+        "code": "604",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4067976",
+        "desc": "Difamação"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "584",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4049984",
+        "desc": "Calúnia, Injúria"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "607",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4069717",
+        "desc": "- Sem Descrição - "
+      }
+    ]
+  },
+  {
+    "name": "Adalberto Cavalcanti Rodrigues",
+    "email": "dep.adalbertocavalcanti@camara.leg.br",
+    "party": "PTB",
+    "state": "PE",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "976",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4934553",
+        "desc": "Cargos, Emprego irregular de verbas ou rendas públicas"
+      }
+    ]
+  },
+  {
+    "name": "Paulo Sérgio Paranhos de Magalhães",
+    "email": "dep.paulomagalhaes@camara.leg.br",
+    "party": "PSD",
+    "state": "BA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "896",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4674239",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2364 @@
+[
+  {
+    "name": "Gladson de Lima Cameli",
+    "party": "PP",
+    "state": "AC",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3533",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4309436",
+        "desc": "Crimes de Trânsito"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3786",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4478063",
+        "desc": "Falsificação ou Alteração de Documento Público para Fins Eleitorais"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3654",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4402215",
+        "desc": "Uso de documento falso"
+      }
+    ]
+  },
+  {
+    "name": "Jorge Ney Viana Macedo Neves",
+    "party": "PT",
+    "state": "AC",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3183",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4072840",
+        "desc": "Sonegação de contribuição previdenciária"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3119",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4046840",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3120",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4045434",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3237",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4107617",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Sérgio de Oliveira Cunha",
+    "party": "PSD",
+    "state": "AC",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "2486",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2499155",
+        "desc": "Crimes contra a Ordem Tributária"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2903",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=3826468",
+        "desc": "Crimes Eleitorais"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "542",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=3916080",
+        "desc": "Peculato"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "880",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4612183",
+        "desc": "Crimes Eleitorais"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3598",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4357081",
+        "desc": "Crimes Eleitorais"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3750",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4447730",
+        "desc": "Peculato"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3851",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4567386",
+        "desc": "Peculato"
+      }
+    ]
+  },
+  {
+    "name": "Benedito de Lira",
+    "party": "PP",
+    "state": "AL",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3989",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4727643",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3994",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4728013",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3996",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4728293",
+        "desc": "Corrupção passiva"
+      }
+    ]
+  },
+  {
+    "name": "Fernando Affonso Collor de Mello",
+    "party": "PTC",
+    "state": "AL",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "451",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2551060",
+        "desc": "Crimes contra a Ordem Tributária"
+      },
+      {
+        "type": "Inquérito",
+        "code": "474",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1493436",
+        "desc": "PROCESSO ANTIGO"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "465",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2565265",
+        "desc": "Corrupção passiva"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "307",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1565721",
+        "desc": "PRESIDENTE DA REPÚBLICA E OUTROS"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1030",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1613919",
+        "desc": "Corrupção ativa"
+      },
+      {
+        "type": "Inquérito",
+        "code": "567",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1520979",
+        "desc": "FITA GRAVADA"
+      },
+      {
+        "type": "Inquérito",
+        "code": "940",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1605220",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Inquérito",
+        "code": "941",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1605371",
+        "desc": "Crimes Praticados por Funcionários Públicos Contra a Administração em Geral"
+      },
+      {
+        "type": "Inquérito",
+        "code": "943",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1605391",
+        "desc": "Crimes contra a Ordem Tributária"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1195",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1642330",
+        "desc": "EXPLORAÇÃO DE PRESTÍGIO"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1206",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1644270",
+        "desc": "CONCORRÊNCIA PÚBLICA"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1207",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1644356",
+        "desc": "PRESIDENTE DA REPÚBLICA E OUTROS"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1265",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1656218",
+        "desc": "Corrupção passiva"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1426",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1738355",
+        "desc": ""
+      },
+      {
+        "type": "Inquérito",
+        "code": "1493",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1762367",
+        "desc": ""
+      },
+      {
+        "type": "Inquérito",
+        "code": "2468",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2490057",
+        "desc": "Corrupção passiva"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2550",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2522855",
+        "desc": "IRPF/Imposto de Renda de Pessoa Física"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "305",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1549063",
+        "desc": "Difamação"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3531",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4302450",
+        "desc": "Calúnia"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3883",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4601779",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4250",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4982219",
+        "desc": "Corrupção passiva"
+      }
+    ]
+  },
+  {
+    "name": "José Renan Vasconcelos Calheiros",
+    "party": "PMDB",
+    "state": "AL",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "1591",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1799713",
+        "desc": "Crimes de Imprensa"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3993",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4728009",
+        "desc": "Corrupção passiva"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4213",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4950830",
+        "desc": "Corrupção passiva"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3272",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4114425",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3589",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4351461",
+        "desc": "Crimes contra o Meio Ambiente e o Patrimônio Genético"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3989",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4727643",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3984",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4727470",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4215",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4952613",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4216",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4952637",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      }
+    ]
+  },
+  {
+    "name": "David Samuel Alcolumbre Tobelem",
+    "party": "DEM",
+    "state": "AP",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "2257",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2319896",
+        "desc": "ATIVA E PASSIVA"
+      }
+    ]
+  },
+  {
+    "name": "João Alberto Rodrigues Capiberibe",
+    "party": "PSB",
+    "state": "AP",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "2144",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2232166",
+        "desc": "Calúnia"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1897",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2095401",
+        "desc": "Calúnia"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1898",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2095051",
+        "desc": "Calúnia"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1900",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2095274",
+        "desc": "Calúnia"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1935",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2102480",
+        "desc": "Contra a Honra"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1936",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2102233",
+        "desc": "CALÚNIA"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2674",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2590913",
+        "desc": "Crimes de Imprensa"
+      }
+    ]
+  },
+  {
+    "name": "Randolph Frederich Rodrigues Alves",
+    "party": "REDE",
+    "state": "AP",
+    "list": []
+  },
+  {
+    "name": "Carlos Eduardo de Souza Braga",
+    "party": "PMDB",
+    "state": "AM",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "1478",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1756287",
+        "desc": ""
+      },
+      {
+        "type": "Inquérito",
+        "code": "1479",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1756288",
+        "desc": ""
+      },
+      {
+        "type": "Inquérito",
+        "code": "3280",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4121053",
+        "desc": "Propaganda eleitoral"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3521",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4279165",
+        "desc": "Desordem eleitoral"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3636",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4381801",
+        "desc": "Improbidade Administrativa"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3310",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4143098",
+        "desc": "Prevaricação"
+      }
+    ]
+  },
+  {
+    "name": "Omar José Abdel Aziz",
+    "party": "PSD",
+    "state": "AM",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "4264",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4994955",
+        "desc": "Crimes Eleitorais"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3310",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4143098",
+        "desc": "Prevaricação"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4027",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4758405",
+        "desc": "Desobediência a Ordens ou Instruções da Justiça Eleitoral"
+      }
+    ]
+  },
+  {
+    "name": "Vanessa Grazziotin",
+    "party": "PCdoB",
+    "state": "AM",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3368",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4173240",
+        "desc": "Captação ilícita de votos ou corrupção eleitoral"
+      }
+    ]
+  },
+  {
+    "name": "Lídice da Mata e Souza",
+    "party": "PSB",
+    "state": "BA",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3578",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4351280",
+        "desc": "Uso de símbolos governamentais em propaganda eleitoral"
+      }
+    ]
+  },
+  {
+    "name": "Otto Roberto Mendonça de Alencar",
+    "party": "PSD",
+    "state": "BA",
+    "list": []
+  },
+  {
+    "name": "Roberto de Oliveira Muniz",
+    "party": "PP",
+    "state": "BA",
+    "list": []
+  },
+  {
+    "name": "Eunício Lopes de Oliveira",
+    "party": "PMDB",
+    "state": "CE",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "2388",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2397146",
+        "desc": "Calúnia"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3512",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4272367",
+        "desc": "Crimes contra o Meio Ambiente e o Patrimônio Genético"
+      }
+    ]
+  },
+  {
+    "name": "José Barroso Pimentel",
+    "party": "PT",
+    "state": "CE",
+    "list": []
+  },
+  {
+    "name": "Tasso Ribeiro Jereissati",
+    "party": "PSDB",
+    "state": "CE",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "2065",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2178873",
+        "desc": "Crimes de Imprensa"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2032",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2154520",
+        "desc": "Difamação"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2430",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2412214",
+        "desc": "Difamação"
+      }
+    ]
+  },
+  {
+    "name": "Cristovam Ricardo Cavalcanti Buarque",
+    "party": "PPS",
+    "state": "DF",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "1928",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2100628",
+        "desc": "Calúnia"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2282",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2352582",
+        "desc": "Crimes contra a Honra"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3818",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4514424",
+        "desc": "Captação ilícita de votos ou corrupção eleitoral"
+      }
+    ]
+  },
+  {
+    "name": "Hélio José da Silva Lima",
+    "party": "PMDB",
+    "state": "DF",
+    "list": []
+  },
+  {
+    "name": "José Antônio Machado Reguffe",
+    "party": "S",
+    "state": "DF",
+    "list": []
+  },
+  {
+    "name": "Magno Pereira Malta",
+    "party": "PR",
+    "state": "ES",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3551",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4326605",
+        "desc": "Falso eleitoral"
+      }
+    ]
+  },
+  {
+    "name": "Ricardo de Rezende Ferraço",
+    "party": "PSDB",
+    "state": "ES",
+    "list": []
+  },
+  {
+    "name": "Rosilda de Freitas",
+    "party": "PMDB",
+    "state": "ES",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "1777",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1975449",
+        "desc": "Desobediência"
+      }
+    ]
+  },
+  {
+    "name": "Lúcia Vânia Abrão",
+    "party": "PSB",
+    "state": "GO",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "1942",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2104530",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1685",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1883730",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Ronaldo Ramos Caiado",
+    "party": "DEM",
+    "state": "GO",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "1776",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1970068",
+        "desc": ""
+      },
+      {
+        "type": "Inquérito",
+        "code": "1773",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1968537",
+        "desc": ""
+      },
+      {
+        "type": "Inquérito",
+        "code": "532",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1512213",
+        "desc": "HONRA"
+      },
+      {
+        "type": "Inquérito",
+        "code": "555",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1518943",
+        "desc": "DIFAMAÇÃO"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4088",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4809863",
+        "desc": "Calúnia"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4097",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4817586",
+        "desc": "Calúnia"
+      }
+    ]
+  },
+  {
+    "name": "Wilder Pedro de Morais",
+    "party": "PP",
+    "state": "GO",
+    "list": []
+  },
+  {
+    "name": "Edison Lobão",
+    "party": "PMDB",
+    "state": "MA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "496",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2635663",
+        "desc": "Crimes contra as Telecomunicações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2736",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2628579",
+        "desc": "Crimes contra as Telecomunicações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3986",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4727488",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3977",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4727384",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3989",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4727643",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4260",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4988525",
+        "desc": "Corrupção passiva"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3855",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4572384",
+        "desc": "Injúria"
+      }
+    ]
+  },
+  {
+    "name": "João Alberto de Souza",
+    "party": "PMDB",
+    "state": "MA",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "1243",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1653846",
+        "desc": "MANIPULAÇÃO DE RESULTADO DE ELEIÇÃO"
+      },
+      {
+        "type": "Inquérito",
+        "code": "191",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1459961",
+        "desc": ""
+      },
+      {
+        "type": "Inquérito",
+        "code": "199",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1460607",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "name": "Roberto Coelho Rocha",
+    "party": "PSB",
+    "state": "MA",
+    "list": []
+  },
+  {
+    "name": "José Aparecido dos Santos",
+    "party": "PR",
+    "state": "MT",
+    "list": []
+  },
+  {
+    "name": "José Antônio Medeiros",
+    "party": "PSD",
+    "state": "MT",
+    "list": []
+  },
+  {
+    "name": "Wellington Antonio Fagundes",
+    "party": "PR",
+    "state": "MT",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "2195",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2274440",
+        "desc": "Crimes contra a Ordem Tributária"
+      }
+    ]
+  },
+  {
+    "name": "Pedro Chaves dos Santos Filho",
+    "party": "PSC",
+    "state": "MS",
+    "list": []
+  },
+  {
+    "name": "Simone Nassar Tebet",
+    "party": "PMDB",
+    "state": "MS",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "4053",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4787010",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4050",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4784513",
+        "desc": "Crimes de Responsabilidade"
+      }
+    ]
+  },
+  {
+    "name": "Waldemir Moka Miranda de Britto",
+    "party": "PMDB",
+    "state": "MS",
+    "list": []
+  },
+  {
+    "name": "Aécio Neves da Cunha",
+    "party": "PSDB",
+    "state": "MG",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "4246",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4975666",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4244",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4974872",
+        "desc": "Corrupção passiva"
+      }
+    ]
+  },
+  {
+    "name": "Antonio Augusto Junho Anastasia",
+    "party": "PSDB",
+    "state": "MG",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3963",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4718742",
+        "desc": "Investigação Penal"
+      }
+    ]
+  },
+  {
+    "name": "José Perrella de Oliveira Costa",
+    "party": "PTB",
+    "state": "MG",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3354",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4167388",
+        "desc": "Crimes contra a Fé Pública"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3332",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4160642",
+        "desc": "Competência por Prerrogativa de Função"
+      }
+    ]
+  },
+  {
+    "name": "Fernando de Souza Flexa Ribeiro",
+    "party": "PSDB",
+    "state": "PA",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "2939",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=3865358",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Jader Fontenelle Barbalho",
+    "party": "PMDB",
+    "state": "PA",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "498",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2637647",
+        "desc": "Peculato"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "336",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2126511",
+        "desc": "Emprego irregular de verbas ou rendas públicas"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "339",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2135328",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1299",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1671947",
+        "desc": "Investigação Penal"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1332",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1685416",
+        "desc": "SENADOR DA REPÚBLICA"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1763",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1956558",
+        "desc": ""
+      },
+      {
+        "type": "Inquérito",
+        "code": "1919",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2099292",
+        "desc": "Emprego irregular de verbas ou rendas públicas"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2117",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2215236",
+        "desc": "OBTENÇÃO DE FINANCIAMENTO MEDIANTE FRAUDE"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2052",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2174383",
+        "desc": "Peculato"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1941",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2104204",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2236",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2305853",
+        "desc": "Falsidade ideológica"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2760",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2641113",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "397",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2319594",
+        "desc": "Falsidade ideológica"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2909",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=3831897",
+        "desc": "Crimes contra a Ordem Tributária"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "549",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=3962754",
+        "desc": "Indisponibilidade de Bens"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3566",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4338121",
+        "desc": "Falsificação de documento público"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3597",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4357088",
+        "desc": "Crimes Eleitorais"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "901",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4692030",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1769",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1959845",
+        "desc": "Investigação Penal"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "653",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4186231",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "374",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2227020",
+        "desc": "Emprego irregular de verbas ou rendas públicas"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2220",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2294999",
+        "desc": "Crimes contra a Ordem Tributária"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4034",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4765520",
+        "desc": "Calúnia"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4188",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4910039",
+        "desc": "Difamação"
+      }
+    ]
+  },
+  {
+    "name": "Paulo Roberto Galvão da Rocha",
+    "party": "PT",
+    "state": "PA",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "2245",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2312906",
+        "desc": "Crimes Praticados por Funcionários Públicos Contra a Administração em Geral"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "470",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=11541",
+        "desc": "Crimes Praticados por Funcionários Públicos Contra a Administração em Geral"
+      }
+    ]
+  },
+  {
+    "name": "Cássio Rodrigues da Cunha Lima",
+    "party": "PSDB",
+    "state": "PB",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3393",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4189814",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3388",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4186083",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "José Targino Maranhão",
+    "party": "PMDB",
+    "state": "PB",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "1887",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2090459",
+        "desc": "Calúnia"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4147",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4868281",
+        "desc": "Frustração de direitos assegurados por lei trabalhista"
+      }
+    ]
+  },
+  {
+    "name": "Raimundo Lira",
+    "party": "PMDB",
+    "state": "PB",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "1200",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1643564",
+        "desc": "CALÚNIA - EXCEÇÃO DA VERDADE"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1500",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1763454",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "name": "Alvaro Fernandes Dias",
+    "party": "PV",
+    "state": "PR",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "1841",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2048173",
+        "desc": "Difamação"
+      },
+      {
+        "type": "Inquérito",
+        "code": "303",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1469180",
+        "desc": ""
+      },
+      {
+        "type": "Inquérito",
+        "code": "1441",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1749500",
+        "desc": ""
+      },
+      {
+        "type": "Inquérito",
+        "code": "1886",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2089297",
+        "desc": "Calúnia"
+      }
+    ]
+  },
+  {
+    "name": "Gleisi Helena Hoffmann",
+    "party": "PT",
+    "state": "PR",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3979",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4727405",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      }
+    ]
+  },
+  {
+    "name": "Roberto Requião de Mello e Silva",
+    "party": "PMDB",
+    "state": "PR",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "1063",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1618073",
+        "desc": "TRIBUNAL E JUSTIÇA ELEITORAL"
+      },
+      {
+        "type": "Inquérito",
+        "code": "960",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1608879",
+        "desc": "DESCUMPRIMENTO DE ORDEM JUDICIAL"
+      },
+      {
+        "type": "Inquérito",
+        "code": "982",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1611689",
+        "desc": "TRIBUNAL E JUSTIÇA ELEITORAL"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3432",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4221142",
+        "desc": "Desacato"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "334",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2069165",
+        "desc": "DESCUMPRIMENTO DE ORDEM JUDICIAL"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1364",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1699453",
+        "desc": "PROGRAMA DE RÁDIO"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1399",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1721577",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1400",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1724539",
+        "desc": "Injúria"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1436",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1748406",
+        "desc": ""
+      },
+      {
+        "type": "Inquérito",
+        "code": "1401",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1724561",
+        "desc": "DIFAMAÇÃO - CALÚNIA"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1742",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1942438",
+        "desc": "Crimes Eleitorais"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1743",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1942376",
+        "desc": "Injúria"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1744",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1942461",
+        "desc": "Crimes Eleitorais"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1350",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1693906",
+        "desc": "MINISTRO DE ESTADO"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1278",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1663892",
+        "desc": "Crimes de Imprensa"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2431",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2411997",
+        "desc": "Difamação"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1974",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2118321",
+        "desc": "Homicídio Simples"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1886",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2089297",
+        "desc": "Calúnia"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1594",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1800413",
+        "desc": "Difamação"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "604",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4067976",
+        "desc": "Difamação"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1841",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2048173",
+        "desc": "Difamação"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3067",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4012787",
+        "desc": "Calúnia"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "584",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4049984",
+        "desc": "Calúnia"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3100",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4035931",
+        "desc": "Calúnia"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3094",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4033422",
+        "desc": "Injúria"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "607",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4069717",
+        "desc": "Crimes contra a Honra"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3112",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4042256",
+        "desc": "Crimes contra a Honra"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3225",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4094321",
+        "desc": "Propaganda eleitoral"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3299",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4134859",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3526",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4292866",
+        "desc": "Difamação"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3768",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4464266",
+        "desc": "Desobediência"
+      }
+    ]
+  },
+  {
+    "name": "Armando de Queiroz Monteiro Neto",
+    "party": "PTB",
+    "state": "PE",
+    "list": []
+  },
+  {
+    "name": "Fernando Bezerra de Souza Coelho",
+    "party": "PSB",
+    "state": "PE",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3958",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4717780",
+        "desc": "Peculato"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4005",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4731995",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      }
+    ]
+  },
+  {
+    "name": "Humberto Sérgio Costa Lima",
+    "party": "PT",
+    "state": "PE",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "1230",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1648262",
+        "desc": "Crimes de Imprensa"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3652",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4398658",
+        "desc": "Desobediência à determinações da Justiça Eleitoral"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3985",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4727481",
+        "desc": "Corrupção passiva"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3685",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4422772",
+        "desc": "Desobediência à determinações da Justiça Eleitoral"
+      }
+    ]
+  },
+  {
+    "name": "Ciro Nogueira Lima Filho",
+    "party": "PP",
+    "state": "PI",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "2191",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2263521",
+        "desc": "Prevaricação"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1864",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2069768",
+        "desc": "Crimes contra a Ordem Tributária"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3910",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4631931",
+        "desc": "Quadrilha ou Bando"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3989",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4727643",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      }
+    ]
+  },
+  {
+    "name": "Elmano Férrer de Almeida",
+    "party": "PTB",
+    "state": "PI",
+    "list": []
+  },
+  {
+    "name": "Maria Regina Sousa",
+    "party": "PT",
+    "state": "PI",
+    "list": []
+  },
+  {
+    "name": "Eduardo Benedito Lopes",
+    "party": "PRB",
+    "state": "RJ",
+    "list": []
+  },
+  {
+    "name": "Luiz Lindbergh Farias Filho",
+    "party": "PT",
+    "state": "RJ",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3079",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4026623",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "679",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4227698",
+        "desc": "Recusa, retardamento ou omissão de dados técnicos indispensáveis à propositura de Ação Civil Pública"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3375",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4177412",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3334",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4161877",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3497",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4254995",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3616",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4362809",
+        "desc": "Improbidade Administrativa"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3988",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4727562",
+        "desc": "Corrupção passiva"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3223",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4093676",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3135",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4053944",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3163",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4064920",
+        "desc": "Improbidade Administrativa"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3121",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4047669",
+        "desc": "Crimes contra a Ordem Tributária"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3124",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4048504",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3205",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4087194",
+        "desc": "Corrupção passiva"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3761",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4459454",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3618",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4364209",
+        "desc": "Corrupção passiva"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3155",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4058497",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3265",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4110162",
+        "desc": "Propaganda eleitoral"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3391",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4186767",
+        "desc": "Injúria"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3511",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4269971",
+        "desc": "Peculato"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3371",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4174096",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3595",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4356591",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      }
+    ]
+  },
+  {
+    "name": "Romario de Souza Faria",
+    "party": "PSB",
+    "state": "RJ",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3188",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4074612",
+        "desc": "Crimes contra o Meio Ambiente e o Patrimônio Genético"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "854",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4469665",
+        "desc": "Crimes contra a Ordem Tributária"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3780",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4471386",
+        "desc": "Injúria"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3817",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4512797",
+        "desc": "Injúria"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4271",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=5004104",
+        "desc": "Difamação"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3887",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4604179",
+        "desc": "Injúria"
+      }
+    ]
+  },
+  {
+    "name": "Maria de Fátima Bezerra",
+    "party": "PT",
+    "state": "RN",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3060",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4005753",
+        "desc": "Aliciamento eleitoral"
+      }
+    ]
+  },
+  {
+    "name": "Garibaldi Alves Filho",
+    "party": "PMDB",
+    "state": "RN",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "1902",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2098452",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "José Agripino Maia",
+    "party": "DEM",
+    "state": "RN",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "264",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1462081",
+        "desc": ""
+      },
+      {
+        "type": "Inquérito",
+        "code": "4141",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4863695",
+        "desc": "Investigação Penal"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4184",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4908650",
+        "desc": "Peculato"
+      }
+    ]
+  },
+  {
+    "name": "Ana Amélia de Lemos",
+    "party": "PP",
+    "state": "RS",
+    "list": []
+  },
+  {
+    "name": "Lasier Costa Martins",
+    "party": "PDT",
+    "state": "RS",
+    "list": []
+  },
+  {
+    "name": "Paulo Renato Paim",
+    "party": "PT",
+    "state": "RS",
+    "list": []
+  },
+  {
+    "name": "Acir Marcos Gurgacz",
+    "party": "PDT",
+    "state": "RO",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "2900",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=3824694",
+        "desc": "Nepotismo"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3377",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4178048",
+        "desc": "Falsificação / Corrupção / Adulteração / Alteração de Substância ou Produtos Alimentícios"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3689",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4431590",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3348",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4166811",
+        "desc": "Modalidade / Limite / Dispensa / Inexigibilidade"
+      }
+    ]
+  },
+  {
+    "name": "Ivo Narciso Cassol",
+    "party": "PP",
+    "state": "RO",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3158",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4062216",
+        "desc": "Peculato"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "562",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4021548",
+        "desc": "Captação ilícita de votos ou corrupção eleitoral"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3720",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4441151",
+        "desc": "Crimes contra o Meio Ambiente e o Patrimônio Genético"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3763",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4460142",
+        "desc": "Crimes contra a Flora"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "565",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4024333",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3373",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4176840",
+        "desc": "Crimes Agrários"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2828",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2688449",
+        "desc": "Investigação Penal"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3513",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4275038",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3742",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4447748",
+        "desc": "Crimes contra a Flora"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3614",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4362798",
+        "desc": "Crimes Praticados por Funcionários Públicos Contra a Administração em Geral"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3608",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4362814",
+        "desc": "Crimes Contra a Administração da Justiça"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3600",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4357089",
+        "desc": "Falsificação de documento particular"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3555",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4331926",
+        "desc": "Calúnia"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3820",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4517887",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3961",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4717944",
+        "desc": "Peculato"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "891",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4664561",
+        "desc": "Calúnia"
+      }
+    ]
+  },
+  {
+    "name": "Valdir Raupp de Matos",
+    "party": "PMDB",
+    "state": "RO",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "1931",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2101135",
+        "desc": "PRECATÓRIO - CRÉDITO ALIMENTAR - PAGAMENTO"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "358",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2177621",
+        "desc": "Peculato"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1995",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2126460",
+        "desc": ""
+      },
+      {
+        "type": "Inquérito",
+        "code": "1918",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2098822",
+        "desc": "Peculato"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2027",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2145749",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1999",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2127322",
+        "desc": "Improbidade Administrativa"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2053",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2174429",
+        "desc": "Captação ilícita de votos ou corrupção eleitoral"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2442",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2447889",
+        "desc": "Crimes Praticados por Funcionários Públicos Contra a Administração em Geral"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1949",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2107447",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "554",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4012042",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "383",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2251870",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2089",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2199695",
+        "desc": "Crimes contra o Sistema Financeiro Nacional"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3233",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4101028",
+        "desc": "Crimes Eleitorais"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3989",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4727643",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3982",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4727438",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      }
+    ]
+  },
+  {
+    "name": "Angela Maria Gomes Portela",
+    "party": "PT",
+    "state": "RR",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "4035",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4766497",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Romero Jucá Filho",
+    "party": "PMDB",
+    "state": "RR",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "2057",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2175755",
+        "desc": "DIFAMAÇÃO"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1556",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1777071",
+        "desc": "CRIME DE INTERCEPTAÇÃO TELEFÔNICA, DE INFORMÁTICA E TELEMÁTICA"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2528",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2512428",
+        "desc": "Crimes de Imprensa"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2221",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2295352",
+        "desc": "Investigação Penal"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2285",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2358455",
+        "desc": "Falsidade ideológica"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2219",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2294336",
+        "desc": "Calúnia"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2561",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2528631",
+        "desc": "Difamação"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2666",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2583202",
+        "desc": "Crimes de Imprensa"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3989",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4727643",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Inquérito",
+        "code": "1015",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1612412",
+        "desc": "CORRUPÇÃO PASSIVA E PECULATO"
+      },
+      {
+        "type": "Inquérito",
+        "code": "978",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=1611080",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Telmário Mota de Oliveira",
+    "party": "PDT",
+    "state": "RR",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "932",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4760249",
+        "desc": "Quadrilha ou Bando"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4035",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4766497",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Dalírio José Beber",
+    "party": "PSDB",
+    "state": "SC",
+    "list": []
+  },
+  {
+    "name": "Dário Elias Berger",
+    "party": "PMDB",
+    "state": "SC",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "2640",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2567200",
+        "desc": "Crimes contra a Flora"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2570",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2533291",
+        "desc": "Denúncia/Queixa"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3927",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4678200",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2853",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=3752363",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4021",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4749778",
+        "desc": "Crimes contra a Propaganda Eleitoral"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "938",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4776748",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4096",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4816035",
+        "desc": "Crimes Eleitorais"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "943",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4789594",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4196",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4918271",
+        "desc": "Desobediência"
+      }
+    ]
+  },
+  {
+    "name": "Paulo Roberto Bauer",
+    "party": "PSDB",
+    "state": "SC",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3548",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4323379",
+        "desc": "Difamação"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3680",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4417319",
+        "desc": "Peculato"
+      }
+    ]
+  },
+  {
+    "name": "Aloysio Nunes Ferreira Filho",
+    "party": "PSDB",
+    "state": "SP",
+    "list": []
+  },
+  {
+    "name": "Angela Maria Gomes Portela",
+    "party": "PT",
+    "state": "RR",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "4035",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4766497",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "José Aníbal Peres de Pontes",
+    "party": "PSDB",
+    "state": "SP",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3824",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4525534",
+        "desc": "Injúria"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3815",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4511033",
+        "desc": "Crimes de \"Lavagem\" ou Ocultação de Bens, Direitos ou Valores"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3822",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4522338",
+        "desc": "Injúria"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3878",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4596667",
+        "desc": "Calúnia"
+      }
+    ]
+  },
+  {
+    "name": "Marta Teresa Suplicy",
+    "party": "PMDB",
+    "state": "SP",
+    "list": [
+      {
+        "type": "Ação Penal",
+        "code": "449",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2547059",
+        "desc": "Difamação"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "455",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2558810",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2682",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2597232",
+        "desc": "Crimes Praticados por Funcionários Públicos Contra a Administração em Geral"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2683",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2597351",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2687",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2599700",
+        "desc": "Licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2591",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2544422",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Inquérito",
+        "code": "2581",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=2540064",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3271",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4114426",
+        "desc": "Crimes de Responsabilidade"
+      },
+      {
+        "type": "Ação Penal",
+        "code": "648",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4164352",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3264",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4109848",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3235",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4104282",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3520",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4277479",
+        "desc": "Estelionato"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3267",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4111289",
+        "desc": "Crimes da Lei de licitações"
+      },
+      {
+        "type": "Inquérito",
+        "code": "4248",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4977823",
+        "desc": "Improbidade Administrativa"
+      }
+    ]
+  },
+  {
+    "name": "Antonio Carlos Valadares",
+    "party": "PSB",
+    "state": "SE",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "2629",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=13022",
+        "desc": "Boca de urna"
+      }
+    ]
+  },
+  {
+    "name": "Eduardo Alves do Amorim",
+    "party": "PSC",
+    "state": "SE",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3381",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4184074",
+        "desc": "Captação ilícita de votos ou corrupção eleitoral"
+      }
+    ]
+  },
+  {
+    "name": "Ricardo Barreto Franco",
+    "party": "DEM",
+    "state": "SE",
+    "list": []
+  },
+  {
+    "name": "Angela Maria Gomes Portela",
+    "party": "PT",
+    "state": "RR",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "4035",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4766497",
+        "desc": "Crimes Eleitorais"
+      }
+    ]
+  },
+  {
+    "name": "Ataídes de Oliveira",
+    "party": "PSDB",
+    "state": "TO",
+    "list": []
+  },
+  {
+    "name": "Kátia Regina de Abreu",
+    "party": "PMDB",
+    "state": "TO",
+    "list": [
+      {
+        "type": "Inquérito",
+        "code": "3830",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4535835",
+        "desc": "Falsificação do selo ou sinal público"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3834",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4540449",
+        "desc": "Falsificação do selo ou sinal público"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3832",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4538776",
+        "desc": "Jurisdição e Competência"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3843",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4553912",
+        "desc": "Falsificação do selo ou sinal público"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3861",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4577428",
+        "desc": "Falsificação do selo ou sinal público"
+      },
+      {
+        "type": "Inquérito",
+        "code": "3921",
+        "link": "http://www.stf.jus.br/portal/processo/verProcessoDetalhe.asp?incidente=4656549",
+        "desc": "Falsificação do selo ou sinal público"
+      }
+    ]
+  },
+  {
+    "name": "Vicente Alves de Oliveira",
+    "party": "PR",
+    "state": "TO",
+    "list": []
+  }
+]
