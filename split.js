@@ -10,18 +10,9 @@ const sortName = (a, b) => {
     }
 };
 
-//process.push(...require('./process-senate-all').sort(sortName));
-//process.push(...require('./process-congress-all').sort(sortName));
-process.push(...require('./investigations-validate').sort(sortName));
-process.push(...require('./prosecutions-validate').sort(sortName));
-
-let senates = require('./data/national-senate-data');
-
-let cache = {};
-for (let i=0; i<senates.length; i++) {
-    let senate = senates[i];
-    cache[senate.fullName] = senate;
-}
+process.push(...require('./process-all').sort(sortName));
+//process.push(...require('./investigations-validate').sort(sortName));
+//process.push(...require('./prosecutions-validate').sort(sortName));
 
 let investigations = [],
     prosecutions = [];
@@ -29,7 +20,7 @@ for (let i=0; i<process.length; i++) {
     let person = process[i];
     let dataP = {
         name: person.name,
-        email: person.email || cache[person.name].email,
+        email: person.email,
         party: person.party,
         state: person.state,
         list: []
@@ -38,6 +29,7 @@ for (let i=0; i<process.length; i++) {
 
     for(let j=0; j<person.list.length; j++) {
         let item = person.list[j];
+        if (item.valid !== true) continue;
         if (item.subject) {
             item.desc = item.subject.split('<br>').map(p => {
                 return p.split('|')[2];

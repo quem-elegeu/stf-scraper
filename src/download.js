@@ -1,7 +1,6 @@
 'use strict';
-const fs = require('fs'),
-    request = require('request'),
-    iconv = require('iconv');
+const request = require('request');
+const iconv = require('iconv');
 
 module.exports = (url, opts = {}) => new Promise((resolve, reject) => {
     let options = {
@@ -15,16 +14,22 @@ module.exports = (url, opts = {}) => new Promise((resolve, reject) => {
     if (opts.form) {
         options.form = opts.form;
     }
-
-    request(options, (error, response, body) => {
+    const reqFunc = () => request(options, (error, response, body) => {
         if (!error && response.statusCode === 200) {
             body = new Buffer(body, 'binary');
             let conv = new iconv.Iconv('ISO-8859-1', 'utf8');
             body = conv.convert(body).toString();
             resolve(body);
         } else {
-            console.error('Err', url, response && response.statusCode, error);
-            reject({error, response});
+            let code = response && response.statusCode;
+            if (code) {
+                console.error('Err', url, code, error);
+                reject({error, response});
+            } else {
+                console.error('Err', url, options.form && JSON.stringify(options.form));
+                setTimeout(reqFunc, 1000);
+            }
         }
     });
+    return reqFunc();
 });

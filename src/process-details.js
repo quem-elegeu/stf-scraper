@@ -28,7 +28,7 @@ module.exports = (url, name) => {
             done: function (err, window) {
                 let $ = window.jQuery,
                     title = $('#detalheProcesso strong').text(),
-                    type = ~title.toLowerCase().indexOf('inq') ? 'invest' : 'réu',
+                    types = ['invest', 'indic', 'réu', 'qdo'],
                     list = $('#abaAcompanhamentoConteudoResposta tr');
 
                 let subject = '',
@@ -40,7 +40,7 @@ module.exports = (url, name) => {
                         return;
                     }
                     let key = elem.text().toLowerCase().trim();
-                    if (key.indexOf(type) === 0) {
+                    if (types.some(type => key.indexOf(type) === 0)) {
                         let txt = $('td:nth-child(2)', this).text();
                         names.push(txt.trim());
                         let _name = removeDiacritics(txt.toLowerCase().replace(/\s/, ' ').trim());
@@ -59,21 +59,14 @@ module.exports = (url, name) => {
                                 }
                             });
                         }
-                        if (!has) {
-                            console.log('))))----', _name, '===', nameLower, '||', initName);
-                        }
+                        //if (!has) {
+                        //    console.log('))))----', _name, '===', nameLower, '||', initName);
+                        //}
                     } else if (key === 'assunto') {
                         subject = $('td:nth-child(2)', this).html();
                     }
                 });
-                resolve({
-                    url,
-                    name,
-                    title,
-                    subject,
-                    has,
-                    names
-                });
+                resolve({url, name, title, subject, has, names});
             }
         });
     }));
